@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/zemchuks/meme-generator-react)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Meme Generator
