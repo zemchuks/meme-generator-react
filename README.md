@@ -6,7 +6,12 @@ Meme Generator
 
 Generates random meme.  it has a top and botton text input boxes for text
 
+Uses Features like:
+- Fetch API
+- ComponentDidMount
 
+API Fetchend from:
+## `http://i.imgflip.com/1bij.jpg`
 
 ## Available Scripts
 
