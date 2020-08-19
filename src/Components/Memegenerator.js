@@ -6,7 +6,7 @@ export default class Memegenerator extends Component {
     state = {
         topText: '',
             bottomText: '',
-            randomImage: 'http://i.imgflip.com/1bij.jpg',
+            randomImage: 'https://i.imgflip.com/1bij.jpg',
             allMemeImgs: [],
             isLoading: true
     }

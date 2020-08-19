@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c136324-11c8-4d07-bbc5-066990583b3e/deploy-status)](https://app.netlify.com/sites/meme-app/deploys)
 ![GitHub repo size](https://img.shields.io/github/repo-size/zemchuks/meme-generator-react)
 
 
@@ -12,6 +13,8 @@ Generates random meme.  it has a top and botton text input boxes for text
 Uses Features like:
 - Fetch API
 - ComponentDidMount
+
+Demo can be found here 👉👉 [https://meme-app.netlify.app/](https://meme-app.netlify.app/)
 
 API Fetchend from:
 ## `http://i.imgflip.com/1bij.jpg`
